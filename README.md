@@ -1,5 +1,5 @@
-## A Hedera React App
-A Hedera TypeScript React App using the Hedera Hashgraph JavaScript SDK to transfer HBAR to a MetaMask account.
+## A Hedera JS React App
+A Hedera JavaScript React App using the Hedera Hashgraph JavaScript SDK to transfer HBAR to a MetaMask account.
 
 ## How to Run
 To get started, make sure to update the .env file with your developer portal testnet credentials.
