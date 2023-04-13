@@ -29,7 +29,7 @@ export default function Home() {
         variant="h4"
         color="white"
       >
-        Let's buidl a dApp on Hedera
+        Let's build a dApp on Hedera
       </Typography>
       <Button
         variant="contained"
