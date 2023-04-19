@@ -11,5 +11,5 @@ To get started, make sure to create .env file in the root directory with your de
 
 Then run the following command in the rood directory of the project:
 
-```npm install --save```
+```npm install```
 ```npm run start```
